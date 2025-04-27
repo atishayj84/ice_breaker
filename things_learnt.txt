@@ -1,0 +1,4 @@
+to identify packages created within python project, create setup.py file and then run 'pipenv install -e . '
+
+to setup virtual environment, ctrl+shift+p select python interpreter
+
